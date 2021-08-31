@@ -33,6 +33,7 @@ All models should work as long as they are in `.glb` or `.vrm` format. `.gltf` h
 3. Clone the [OpenSeeFace](https://github.com/emilianavt/OpenSeeFace) face tracker
 4. Run the facetracker via Python or via the binary if on Windows
 5. Run the project
+6. If you cannot build by gltf include addons from V-sekai's https://github.com/V-Sekai/godot-vrm addons
 
 ## Discussion
 A Discord server [is available here](https://discord.gg/6mcdWWBkrr) if you need help, like to contribute, or just want to chat.
